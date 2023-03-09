@@ -35,7 +35,7 @@
 I love connecting with different people, so say hi! I'll be happy to meet you more! 😊
 </p>
 
-<-- <h2 align="center">My favorite projects 💻</h2>
+<!-- <h2 align="center">My favorite projects 💻</h2>
 <br />
 <p align="center">
   <a href="https://github.com/ArunBohra12/natours">
